@@ -483,7 +483,6 @@ header label {
 .footer .box-container .box {
     flex: 1 1 25rem;
     margin: 2rem;
-    margin-bottom: 12rem;
 }
 
 
@@ -532,24 +531,17 @@ header label {
     text-align: center;
 }
 
+
 .footer .credit{
     font-size: 2rem;
     font-weight: normal;
     letter-spacing: .1rem;
-    color: #fff;
-    padding: 2.5rem 1rem;
-    align-items: center;
-    display: flex;
-}
-.wrapTest{
+    color:#fff;
     border-top: .1rem solid #fff5;
-    display: flex;
+    padding:2.5rem 1rem;
     text-align: center;
-    justify-content: center;
-    width: 100%;
-    position: fixed;
-    bottom: 0;
 }
+
 
 
 
